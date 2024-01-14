@@ -97,27 +97,27 @@ button3=tkinter.Button(window,text="3",command=lambda sign="3":insertsign(sign))
 button3.place(x=120,y=150)
 
 #4button
-button4=tkinter.Button(window,text="4")
+button4=tkinter.Button(window,text="4",command=lambda sign="4":insertsign(sign))
 button4.place(x=100,y=130)
 
 #5button
-button5=tkinter.Button(window,text="5")
+button5=tkinter.Button(window,text="5",command=lambda sign="5":insertsign(sign))
 button5.place(x=110,y=130)
 
 #6button
-button6=tkinter.Button(window,text="6")
+button6=tkinter.Button(window,text="6",command=lambda sign="6":insertsign(sign))
 button6.place(x=120,y=130)
 
 #7button
-button7=tkinter.Button(window,text="7")
+button7=tkinter.Button(window,text="7",command=lambda sign="7":insertsign(sign))
 button7.place(x=100,y=110)
 
 #8button
-button8=tkinter.Button(window,text="8")
+button8=tkinter.Button(window,text="8",command=lambda sign="8":insertsign(sign))
 button8.place(x=110,y=110)
 
 #9button
-button9=tkinter.Button(window,text="9")
+button9=tkinter.Button(window,text="9",command=lambda sign="9":insertsign(sign))
 button9.place(x=120,y=110)
 
 
